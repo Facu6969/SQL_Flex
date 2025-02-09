@@ -72,7 +72,7 @@ El script SQL completo se encuentra en el archivo `maderera.sql`. Este archivo i
 ## **5. Cómo Ejecutar**
 
 ### **Requisitos**
-- Un gestor de base de datos como MySQL o MariaDB.
+- Un gestor de base de datos como MySQL.
 - Un editor como Visual Studio Code o cualquier herramienta compatible con SQL.
 
 ### **Pasos**
